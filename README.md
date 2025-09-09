@@ -4,9 +4,6 @@ Soy estudiante de **Analista en Computación** y **Licenciatura en Ciencias de l
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juancreynoso&show_icons=true&theme=white)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=juancreynoso&layout=compact&theme=white)
 
 
 
