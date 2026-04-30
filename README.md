@@ -1,4 +1,4 @@
-# ¡Hi 👋 I'm Juan Cruz Reynoso
+# Hi, I'm Juan Cruz Reynoso
 
 I'm currently studying **Computer Science** at the **National University of Río Cuarto**. My passion for technology and computers drives me to continuously learn and improve.
 
