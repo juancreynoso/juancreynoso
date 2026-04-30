@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy Juan Cruz Reynoso
+# ¡Hi 👋 I'm Juan Cruz Reynoso
 
-Soy estudiante de **Analista en Computación** y **Licenciatura en Ciencias de la Computación** en la **Universidad Nacional de Río Cuarto**. Mi pasión por la tecnología y las computadoras me impulsa a aprender y mejorar continuamente.
+I'm currently studying **Computer Science** at the **National University of Río Cuarto**. My passion for technology and computers drives me to continuously learn and improve.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
